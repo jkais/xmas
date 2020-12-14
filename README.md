@@ -1,3 +1,8 @@
+Die Python-Folien ohne interaktives Python:
+* https://nbviewer.jupyter.org/github/jkais/xmas/blob/master/python.ipynb
+
+
+
 Die beiden Jupyter Notebooks per binder starten:
 * https://mybinder.org/v2/gh/jkais/xmas/HEAD
 
